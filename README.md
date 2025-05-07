@@ -1,14 +1,10 @@
 # Curriculum Vitae
 
-### Dependencies
+### Requirements
 
-```sh
-sudo pacman -S texlive
-```
+- [texlive](https://archlinux.org/groups/x86_64/texlive/) (*for Archlinux*)
+- [MiKTeX](https://miktex.org/) (*for other OSes*)
 
 ### Building
 
-```sh
-cd curriculum
-latexmk -pdf curriculum.tex
-```
+1. Run `latexmk -pdf curriculum.tex`
