@@ -3,3 +3,5 @@
 !.gitignore
 !README.md
 !*.tex
+!flake.lock
+!flake.nix
