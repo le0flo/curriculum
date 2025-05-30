@@ -15,11 +15,6 @@
         texliveBasic
         texlivePackages.latexmk
       ];
-
-      shellHook = ''
-          echo Nix devshell for: curriculum
-          echo - type *exit* to quit the shell
-      '';
     };
   };
 }
