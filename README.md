@@ -2,8 +2,7 @@
 
 ### Requirements
 
-- [texlive](https://archlinux.org/groups/x86_64/texlive/) (*for Archlinux*)
-- [MiKTeX](https://miktex.org/) (*for other OSes*)
+- [MiKTeX](https://miktex.org/)
 
 ### Building
 
