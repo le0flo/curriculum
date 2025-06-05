@@ -4,6 +4,6 @@
 
 - [MiKTeX](https://miktex.org/)
 
-### Building
+### Compilation
 
 1. Run `latexmk -pdf curriculum.tex`
