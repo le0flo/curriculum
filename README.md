@@ -6,4 +6,4 @@
 
 ### Compilation
 
-1. Run `latexmk -pdf curriculum.tex`
+1. Run `make`
