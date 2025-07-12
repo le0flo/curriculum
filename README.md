@@ -7,5 +7,6 @@
 ### Compilation
 
 ```sh
+cd curriculum
 make # Cleans the current folder and compiles every language available
 ```
