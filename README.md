@@ -2,8 +2,10 @@
 
 ### Requirements
 
-- [MiKTeX](https://miktex.org/)
+- [latexmk](https://miktex.org/packages/latexmk)
 
 ### Compilation
 
-1. Run `make`
+```sh
+make # Cleans the current folder and compiles every language available
+```

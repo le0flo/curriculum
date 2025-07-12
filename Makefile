@@ -1,4 +1,4 @@
-all: italiano english
+all: clean italiano english
 
 italiano: curriculum_it.tex
 	latexmk -pdf curriculum_it.tex
